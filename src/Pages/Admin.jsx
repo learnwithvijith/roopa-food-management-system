@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { addProduct, deleteProduct } from '../redux/productSlice';
+import { addProduct, deleteProduct } from '../redux/slice/productSlice';
 
 const Admin = () => {
   const dispatch = useDispatch();
