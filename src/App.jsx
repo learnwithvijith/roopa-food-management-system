@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux';
 
 import Home from './Pages/Home';
 import ProductList from './components/ProductList';
-import NavBar from './components/NavBar';
+import NavBar from './components/Navbar';
 import About from './Pages/About';
 import Login from './Pages/Login';
 import Contact from './Pages/Contact';
